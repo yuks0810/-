@@ -20,4 +20,4 @@ https://www.udemy.com/course/python-algo/
 
 本コースでは、前半にPythonを用いてアルゴリズムとデータ構造を基礎からしっかり学び、後半にはコーディング面接対策をカバーしたコースとなっております。Pythonの基礎をおさえていれば、アルゴリズムの基礎から習得できるコースとなっておりますので、ご安心ください。それでは、コースでお会いできれば幸いです！
 
-<a href="https://ibb.co/ZSgm5t8"><img src="https://i.ibb.co/cw8L0MF/2020-12-19-17-23-55.png" alt="2020-12-19-17-23-55" border="0"></a><br /><a target='_blank' href='https://statewideinventory.org/subaru-0-60-times'>fastest subaru suv</a><br />
+<a href="https://ibb.co/ZSgm5t8"><img src="https://i.ibb.co/ZSgm5t8/2020-12-19-17-23-55.png" alt="2020-12-19-17-23-55" border="0"></a>
